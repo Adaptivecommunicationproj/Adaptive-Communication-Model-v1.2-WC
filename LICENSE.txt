@@ -1,0 +1,26 @@
+Adaptive Communication Project License (Non-Commercial Use)
+
+This framework is free to use and adapt for personal or professional non-commercial purposes,
+provided that the following conditions are met:
+
+1. The Base Adaptive Communication Model v1.2 – Adaptive Communication Project is a protected framework.
+   Its core structure, tone system, and communication protocols must remain unchanged in all derivative versions.
+
+2. Users may create sub-versions (for example, v1.2.1, v1.2.2) for personal or accessibility adaptations.
+   These sub-versions must clearly state:
+   “Based on the Adaptive Communication Model v1.2 – Adaptive Communication Project.”
+
+3. Users may not publish or distribute major version updates (v1.3 or higher) unless granted explicit permission from the original author.
+
+4. The framework may not be used commercially, sold, or monetized in any form without written consent.
+
+5. The intent of this model is not for profit. Its sole purpose is to improve accessibility,
+   understanding, and communication for neurodivergent individuals and others who benefit from structured, regulation-safe dialogue.
+
+6. Any attempt to use or adapt this model for financial gain, paywalled access, or exclusive distribution
+   directly violates the spirit and purpose of the Adaptive Communication Project.
+
+Integrity Statement:
+The base version (v1.2) of this framework is protected. Others may create personal adaptations
+but may not structurally alter or redistribute the core protocols, nor use them for profit,
+without explicit consent from the original author.
