@@ -56,3 +56,8 @@ For permissions, questions, or contributions:
 📧 adaptivecommunicationproj@zohomailcloud.ca
 
 ---
+## Access the Framework
+
+To view or download the latest version of the Adaptive Communication Model, click below:
+
+[Base Adaptive Communication Model v1.2 – Condensed Public Edition with Intro](./Base_Adaptive_Communication_Model_v1.2_Condensed_Public_With_Intro.pdf)
